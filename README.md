@@ -1,10 +1,11 @@
-![40238-happy-coding](https://user-images.githubusercontent.com/111685141/198521310-8cccab00-5e09-4284-89f2-8f46d49ad889.gif)
+
 
 # 💫 About Me:
 <br>I'm Dhanush Holla, a full-time front-end developer 👨‍💻 working @ Tekion 🚀🚗<br>🔭 I’m currently working on day-to-day problems that can be simplified<br><br>
 🌱 I’m currently learning react and other frontend frameworks..also trying to learn evolving tech verticals like cybsec,blockchain,design etc..<br><br>❓ Ask me about anything related to psychology, design based human behaviours, building convos, idea-creation and stuffs related to MERN<br><br>⚡ Fun fact: I always wear different pair of socks..pretending ambidextrous, Talkative and outspoken
 
-![108333-coding (1)](https://user-images.githubusercontent.com/111685141/198521112-15b9100b-d1dd-4d1c-bc40-efbff75ec7de.gif)
+<script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
+<lottie-player src="https://assets6.lottiefiles.com/packages/lf20_tfb3estd.json"  background="transparent"  speed="1"  style="width: 200px; height: 200px;"  loop controls autoplay></lottie-player>
 
 
 ## 🌐 Socials:
