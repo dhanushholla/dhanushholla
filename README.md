@@ -1,9 +1,11 @@
+![40238-happy-coding](https://user-images.githubusercontent.com/111685141/198521310-8cccab00-5e09-4284-89f2-8f46d49ad889.gif)
+
 # 💫 About Me:
 <br>I'm Dhanush Holla, a full-time front-end developer 👨‍💻 working @ Tekion 🚀🚗<br>🔭 I’m currently working on day-to-day problems that can be simplified<br><br>
 🌱 I’m currently learning react and other frontend frameworks..also trying to learn evolving tech verticals like cybsec,blockchain,design etc..<br><br>❓ Ask me about anything related to psychology, design based human behaviours, building convos, idea-creation and stuffs related to MERN<br><br>⚡ Fun fact: I always wear different pair of socks..pretending ambidextrous, Talkative and outspoken
 
+![108333-coding (1)](https://user-images.githubusercontent.com/111685141/198521112-15b9100b-d1dd-4d1c-bc40-efbff75ec7de.gif)
 
-![108333-coding](https://user-images.githubusercontent.com/111685141/198520420-39cb3699-6f83-4bf5-9269-8449415a5d35.gif)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dhanushholla) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dhanushholla) 
