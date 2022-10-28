@@ -1,11 +1,9 @@
 
-
 # 💫 About Me:
 <br>I'm Dhanush Holla, a full-time front-end developer 👨‍💻 working @ Tekion 🚀🚗<br>🔭 I’m currently working on day-to-day problems that can be simplified<br><br>
 🌱 I’m currently learning react and other frontend frameworks..also trying to learn evolving tech verticals like cybsec,blockchain,design etc..<br><br>❓ Ask me about anything related to psychology, design based human behaviours, building convos, idea-creation and stuffs related to MERN<br><br>⚡ Fun fact: I always wear different pair of socks..pretending ambidextrous, Talkative and outspoken
 
-<script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
-<lottie-player src="https://assets6.lottiefiles.com/packages/lf20_tfb3estd.json"  background="transparent"  speed="1"  style="width: 200px; height: 200px;"  loop controls autoplay></lottie-player>
+![animation_300_l9s53nlw](https://user-images.githubusercontent.com/111685141/198522965-b9c8f9f5-116f-48d8-9541-b907747e2ef1.gif)
 
 
 ## 🌐 Socials:
