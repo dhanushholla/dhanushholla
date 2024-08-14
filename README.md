@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-<br>I'm Dhanush Holla, a full-time front-end developer 👨‍💻 working @ Tekion 🚀🚗<br>🔭 I’m currently working on day-to-day problems that can be simplified<br><br>🌱 I’m currently learning react and other frontend frameworks..also trying to learn evolving tech verticals like cybsec,blockchain,design etc..<br><br>❓ Ask me about anything related to psychology, design based human behaviours, building convos, idea-creation and stuffs related to MERN<br><br>⚡ Fun fact: I always wear different pair of socks..pretending ambidextrous, Talkative and outspoken
+<br>I'm Dhanush Holla, a full-time front-end developer 👨‍💻<br> EX-SDE@Kriyadocs, Ex-ASE@Tekion, Ex-SDE(PI)@EmbedUR Systems 🚀🚗<br>🔭 I’m currently working on day-to-day problems that can be simplified<br><br>🌱 I’m currently learning react and other frontend frameworks..also trying to learn evolving tech verticals like cybsec,blockchain,design etc..<br><br>❓ Ask me about anything related to psychology, design based human behaviours, building convos, idea-creation and stuffs related to MERN<br><br>⚡ Fun fact: I always wear different pair of socks..pretending ambidextrous, Talkative and outspoken
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dhanushholla) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dhanushholla) 
