@@ -7,7 +7,7 @@
 
 ## My NPM packages:
 [![passforge](https://img.shields.io/npm/v/passforge?label=passforge&color=blue&style=flat)](https://www.npmjs.com/package/passforge) 
-([![npm downloads](https://img.shields.io/npm/dt/passforge)](https://www.npmjs.com/package/passforge))
+[![npm downloads](https://img.shields.io/npm/dt/passforge)](https://www.npmjs.com/package/passforge)
 
 
 # 💻 Tech Stack:
