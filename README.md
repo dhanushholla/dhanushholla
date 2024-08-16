@@ -6,8 +6,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dhanushholla) 
 
 ## My NPM packages:
-[![npm](https://img.shields.io/npm/v/passforge)](https://www.npmjs.com/package/passforge)
-
+[![passforge](https://img.shields.io/npm/v/passforge?label=passforge&color=blue&style=flat)](https://www.npmjs.com/package/passforge)
 
 
 # 💻 Tech Stack:
