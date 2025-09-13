@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-<br>I'm Dhanush Holla, a full-time front-end developer 👨‍💻<br> EX-SDE@Kriyadocs, Ex-ASE@Tekion, Ex-SDE(PI)@EmbedUR Systems 🚀🚗<br>🔭 I’m currently working on day-to-day problems that can be simplified<br><br>🌱 I’m currently working on react and other frontend frameworks..also trying to learn ever evolving tech verticals like cybsec,blockchain,design etc..<br><br>❓ Ask me about anything related to psychology, design based human behaviours, building convos, idea-creation and stuffs related to MERN<br><br>⚡ Wanna know more about me? check out my linkedin and feel free to connect!
+<br>I'm Dhanush Holla, a full-time Software developer @koolio.ai 👨‍💻<br> EX-SDE@Kriyadocs, Ex-ASE@Tekion, Ex-SDE(PI)@EmbedUR Systems 🚀🚗<br>🔭 I’m currently working on day-to-day problems that can be simplified<br><br>🌱 I’m currently working on react and other frontend frameworks..also trying to learn ever evolving tech verticals like cybsec,blockchain,design etc..<br><br>❓ Ask me about anything related to psychology, design based human behaviours, building convos, idea-creation and stuffs related to MERN<br><br>⚡ Wanna know more about me? check out my linkedin and feel free to connect!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dhanushholla) 
