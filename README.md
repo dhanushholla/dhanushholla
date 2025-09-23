@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-<br>I'm Dhanush Holla, a full-time Software developer @koolio.ai 👨‍💻<br> EX-SDE@Kriyadocs, Ex-ASE@Tekion, Ex-SDE(PI)@EmbedUR Systems 🚀🚗<br>🔭 I’m currently working on day-to-day problems that can be simplified<br><br>🌱 I’m currently working on react and other frontend frameworks..also trying to learn ever evolving tech verticals like cybsec,blockchain,design etc..<br><br>❓ Ask me about anything related to psychology, design based human behaviours, building convos, idea-creation and stuffs related to MERN<br><br>⚡ Wanna know more about me? check out my linkedin and feel free to connect!
+<br>I'm Dhanush Holla, Lead Engineer @koolio.ai 👨‍💻<br> EX-SDE@Kriyadocs, Ex-ASE@Tekion, Ex-SDE(PI)@EmbedUR Systems 🚀🚗<br>🔭 I’m currently working on day-to-day problems that can be simplified<br><br>🌱 I’m currently working on react and other frontend frameworks..also trying to learn ever evolving tech verticals like cybsec,blockchain,design etc..<br><br>❓ Ask me about anything related to psychology, design based human behaviours, building convos, idea-creation and stuffs related to MERN<br><br>⚡ Wanna know more about me? check out my linkedin and feel free to connect!
 
 Portfolio : https://dhanushholla.vercel.app
 
